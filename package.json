@@ -1,0 +1,18 @@
+{
+  "name": "dojojavascript",
+  "version": "1.0.0",
+  "description": "dojo in avenue code office",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test/test.js"
+  },
+  "keywords": [
+    "dojo",
+    "avenuecode",
+    "js"
+  ],
+  "author": "minas da ti",
+  "license": "ISC"
+}
